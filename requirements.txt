@@ -1,1 +1,9 @@
 # Add your project dependencies here
+streamlit
+langchain
+langchain-groq
+langchain-community
+pypdf
+sentence-transformers
+chromadb
+python-dotenv
